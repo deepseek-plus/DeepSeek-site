@@ -1,4 +1,4 @@
-# DeepSeek官网：Deep Seek 官网入口、下载及使用攻略~ | deekseep 最新使用指南~【2025年2月更新】
+# DeepSeek官网：Deep Seek 官网入口、下载及使用攻略~ | deekseep 最新使用指南~【2025年3月更新】
 
 > 更新日期：2025/03/01     
 
