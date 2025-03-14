@@ -1,6 +1,6 @@
 # DeepSeek官网：Deep Seek 官网入口、下载及使用攻略~ | deekseep 最新使用指南~【2025年3月更新】
 
-> 更新日期：2025-03-14       
+> 更新日期：2025-03-15       
 
 轻松使用 **[DeepSeek 官网 R1 满血版](https://chat.yixiaai.com)**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**   
 
@@ -30,6 +30,7 @@
 ## DeepSeek R1 满血版（官方平替）
 
 * **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/) - **DeepSeek网页版**，支持 **DeepSeek R1满血版**、V3模型~
+* **🔥蓝鲸AI：**[chat.lanjing.ai](https://chat.lanjing.ai/) - **DeepSeek高速版**，支持DeepSeek、ChatGPT 和 Claude、Grok 最好的模型
 * **🔥一下 AI：**[www.yixiaai.com](https://www.yixiaai.com/) - **DeepSeek官方平替**，支持DeepSeek、ChatGPT 和 Claude最好的模型
 * **秘塔 AI：**[访问](https://metaso.cn/)
 * **纳米 AI：**[访问](https://www.n.cn/)
