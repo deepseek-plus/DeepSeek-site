@@ -4,7 +4,7 @@
 
 轻松使用 **[DeepSeek 官网 R1 满血版](https://chat.lanjing.ai)**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**   
 
-本指南提供最新 **DeepSeek 使用指南**，包含 [**DeepSeek 官网入口**](https://chat.lanjing.ai)、[**DeepSeek 官网平替**](https://chat.lanjing.ai)、[**DeepSeek 下载**](https://chat.lanjing.ai)、[**DeepSeek 平替网站**](https://chat.lanjing.ai)，助您顺畅使用 DeepSeek~
+本指南提供最新 **DeepSeek 使用指南**，包含 [**DeepSeek 官网入口**](https://chat.lanjing.ai)、[**DeepSeek 官网平替**](https://chat.yixiaai.com)、[**DeepSeek 下载**](https://chat.lanjing.ai)、[**DeepSeek 平替网站**](https://chat.yixiaai.com)，助您顺畅使用 DeepSeek~
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## DeepSeek 官网入口：
 
-* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.lanjing.ai)
+* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网平替（快速稳定）](https://chat.yixiaai.com)
 * **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/) 、 [下载（👆右上角）](https://chat.yixiaai.com) 
 * **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
