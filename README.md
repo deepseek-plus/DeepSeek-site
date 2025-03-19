@@ -2,7 +2,7 @@
 
 > 更新日期：2025/03/19         
 
-轻松使用 **[DeepSeek 官网 R1 满血版](https://chat.lanjing.ai)**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**   
+轻松使用 **[DeepSeek 官网 R1 满血版](https://chat.yixiaai.com)**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**   
 
 本指南提供最新 **DeepSeek 使用指南**，包含 [**DeepSeek 官网入口**](https://chat.lanjing.ai)、[**DeepSeek 官网平替**](https://chat.yixiaai.com)、[**DeepSeek 下载**](https://chat.lanjing.ai)、[**DeepSeek 平替网站**](https://chat.yixiaai.com)，助您顺畅使用 DeepSeek~
 
