@@ -1,6 +1,6 @@
-# DeepSeek官网：Deep Seek 官网入口、下载及使用攻略~ | deekseep 最新使用指南~【2025年6月更新】
+# DeepSeek官网：Deep Seek 官网入口、下载及使用攻略~ | deekseep 最新使用指南~【2025年7月更新】
 
-> 更新日期：2025/06/29                     
+> 更新日期：2025/07/01                     
 
 轻松使用 **[DeepSeek 官网 R1 满血版](https://chat.lanjingai.org)**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**   
 
